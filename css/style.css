@@ -96,7 +96,7 @@ main .main-input .main-input-container .search-icon{
     margin-right: 10px;
 }
 main .main-input .main-input-container .micro-icon{
-    background-image: url('https://cdn-icons.flaticon.com/png/512/3128/premium/3128290.png?token=exp=1647714439~hmac=e9c81af2a956e5c27d5adf3b1c480e0b');
+    background-image: url('../multimedia/micro.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;

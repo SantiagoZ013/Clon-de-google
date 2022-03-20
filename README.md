@@ -1,2 +1,2 @@
 # Clon-de-google
-Este es un clon de google que hice para mejorar mis habilidades en css.
+Este es un clon del navegador de google que hice para mejorar mis habilidades en html y css.
